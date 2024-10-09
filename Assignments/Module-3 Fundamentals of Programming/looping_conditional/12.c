@@ -1,5 +1,5 @@
 // 12. Program of Armstrong Number in C Using For Loop & While Loop 
-// 1, 153 -> 1^3 + 5^3 + 3^3, 370, 371, 407
+
 
 #include<stdio.h>
 #include<math.h>

@@ -27,19 +27,5 @@ void main(){
 }
 
 
-/*
-#include<stdio.h>
-void main(){
-    int n, number[5];
 
-    for(n = 1 ; n <= 5 ; n++){
-        printf("\nEnter number %d: ",n);
-        scanf("%d",&number[n]);
-    } 
-
-    for(n = 1 ; n <= 5 ; n++){
-        printf("\nyou entered: %d",number[n]);
-    }  
-}
-*/
 

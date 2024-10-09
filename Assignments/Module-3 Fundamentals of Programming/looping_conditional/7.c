@@ -1,6 +1,5 @@
 // 7. WAP to print number in reverse order e.g.: number = 64728 ---> 82746
 
-// 1234 -> 4321
 
 #include<stdio.h>
 void main(){

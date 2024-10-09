@@ -15,10 +15,7 @@ void main(){
 
     for(i=0; i<len; i++){
 
-        // for(j=0; i<len && !isspace(str[i]); j++, i++){
-        //     word[j] = str[i];
-        // }
-        // word[j] = '\0';
+      
 
         while(i<len && !isspace(str[i])){
 

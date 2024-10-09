@@ -37,35 +37,3 @@ void main(){
 }
 
 
-// #include <stdio.h>                                  // static input
-// #include <string.h>
-
-// void main(){
-//     int i, len = 0, start, end;
-//     char str[100] = "I Love India";
-//     printf("%s", str);
-    
-//     len = strlen(str);
-    
-//     printf("\nEnter postion to Start: ");
-//     scanf("%d", &start);
-    
-//     printf("\nEnter postion to end(default end is %d): ",len);
-//     scanf("%d", &end);
-    
-//     char str1[end - start +1];
-    
-//     if(start>=0 && end<=len){
-//         for(i=0; start<=end ; i++){
-            
-//             str1[i] = str[start];
-//             start++;
-//         }str[i]='\0';
-//     }
-//     else{
-//         printf("\ninvalid position.");
-//     }
-    
-//     printf("%s", str1);
-    
-// }

@@ -16,11 +16,3 @@ void main(){
      printf("\nsum of all digit is: %d",sum);
 }
 
-
-/*
-for(; n > 0; n=n/10){
-
-        sum = sum + n % 10;
-
-    }
-*/

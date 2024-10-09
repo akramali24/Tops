@@ -8,17 +8,6 @@ void main(){
     printf("\nEnter the number: ");
     scanf("%d",&a);
     
-    /*
-    a1 = a;
-    printf("\n1st power of number n^1 is: %d",a1);
-
-    a2 = a * a;
-    printf("\n2nd power of number n^2 is: %d",a2);
-
-    a3 = a * a * a;
-    printf("\n3rd power of number n^3 is: %d",a3);
-    */
-    
     a1 = pow(a,1);
     printf("\n1st power of number n^1 is: %d",a1);
 

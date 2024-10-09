@@ -3,7 +3,7 @@
 #include<stdio.h>
 void main(){
 
-    char name[30] = "paras rana";
+    char name[30] = "akram ali";
     char birth_date[10] = "11-2-2004";
     int age = 20;
     char address[50] = "2/4624, sagrampura main road, surat";
